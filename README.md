@@ -16,20 +16,20 @@
 ## 🚀 About Me
 - 🎓 BTech in Computer Science (2022–2026) @ KIIT University, Bhubaneshwar  
 - 💻 Passionate about solving real‑world problems with AI, IoT & edge computing  
-- 🌱 Currently seeking **internships** in ML/Full‑Stack; eager to work with live data  
+- 🌱 Currently seeking **internships** in AI/ML, Devops; eager to work with live data  
 - 📍 Based in Bhubaneshwar, Odisha | ✉️ navneettiwari334@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats
-> 🔥 **165** contributions in the last year · 20 repositories · 1 star
+> 🔥 **170** contributions in the last year · 20 repositories · 1 star
 
 | Metric               | Value         |
 |----------------------|--------------:|
-| Total Contributions  | 165           |
-| Issues               | 4 %           |
-| Pull Requests        | 96 %          |
-| Commits              | 100 %         |
+| Total Contributions  | 170           |
+| Issues               | 2 %           |
+| Pull Requests        | 5 %           |
+| Commits              | 95 %          |
 
 ---
 
@@ -54,6 +54,7 @@ I love giving back to the community by submitting PRs, reviews & docs improvemen
 |------------------------------|---------------------------------------|-----------------|-------------------|
 | [Kaggle/kaggle‑api](https://github.com/Kaggle/kaggle-api)      | Pull Request: `update kaggle_api.py` (+39/−23)  | June 9, 2025     | Python script     |
 | [google-research](https://github.com/google-research)          | Added Jupyter Notebook demo            | June 11, 2025    | Notebook example  |
+| [keploy/keploy](https://github.com/keploy/keploy/blob/main/cli)| Improved Performance                   | June 13, 2025    | Bug_Fix           |
 | [Navneet-nt/NetworkSecurity](https://github.com/Navneet-nt/NetworkSecurity) | 12 commits                              | May 2025         | Python utilities  |
 | [Navneet-nt/portfolio_v1](https://github.com/Navneet-nt/portfolio_v1)     | 5 commits                               | May 21, 2025     | HTML/CSS          |
 | [Navneet-nt/Musically_Yours](https://github.com/Navneet-nt/Musically_Yours)| 2 commits                               | May 25, 2025     | Python package    |
