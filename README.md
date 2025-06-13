@@ -6,7 +6,7 @@
 <p align="center">
   <h1 align="center">👋 Hi there, I'm Navneet Tiwari</h1>
   <p align="center">
-    <em>he/him · Intern · Machine Learning & Full‑Stack Enthusiast</em><br/>
+    <em>he/him · Student · Machine Learning Enthusiast</em><br/>
     <a href="https://github.com/Navneet-nt"><strong>Explore my GitHub →</strong></a>
   </p>
 </p>
