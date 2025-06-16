@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Navneet-nt)
+[![MasterHead](https://cdn.myportfolio.com/a7dcc6d5ac1134b2d40ac6d1c5552304/1f0a0456-b934-4f28-beee-c47de7308667_rw_1920.gif?h=5ecc8b473e70030b5e3d8b8ef826ca1c)](https://github.com/Navneet-nt)
 
 <h1 align="center">👋 Hi, I'm Navneet Tiwari</h1>
 <h3 align="center">BTech Student & Machine Learning Enthusiast</h3>
