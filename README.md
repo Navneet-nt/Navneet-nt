@@ -25,29 +25,26 @@
   <a href="https://twitter.com/navneet_tiwari34" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/navneet-tiwari-511652355" target="blank">
+  <a href="https://www.linkedin.com/in/navneet-tiwari-511652355/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/19208792" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/Navneet-nt" target="blank">
+  <a href="https://leetcode.com/u/1countzero1/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
-  <a href="https://github.com/Navneet-nt" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  <a href="https://www.kaggle.com/countmein" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navneet-nt&show_icons=true&locale=en&layout=compact" alt="Navneet-nt" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navneet-nt&show_icons=true&locale=en" alt="Navneet-nt" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet-nt&" alt="Navneet-nt" /></p>
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&style=for-the-badge" alt="Python" height="30" />
+  <img src="https://img.shields.io/badge/Java-11-red?logo=java&style=for-the-badge" alt="Java" height="30" />
+</p>
 
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Navneet-nt/badges/community)](https://community.vaunt.dev/board/Navneet-nt)
-
-<p>
-  <a href="https://vaunt.dev">
-    <img src="https://api.vaunt.dev/v1/github/entities/Navneet-nt/contributions?format=svg" width="45%" />
-  </a>
-  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Navneet-nt/achievements?format=svg&limit=3" width="50%" />
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
