@@ -4,7 +4,7 @@
 -->
 <p align="center">
   <img 
-    src="Loneliness Solitude GIF by braindead.gif" 
+    src="w8ZJLtJbmuph.gif" 
     alt="Loneliness Solitude GIF by braindead" 
     width="600"
   />
