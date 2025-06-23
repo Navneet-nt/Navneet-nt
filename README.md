@@ -6,7 +6,7 @@
   <img 
     src="w8ZJLtJbmuph.gif" 
     alt="Loneliness Solitude GIF by braindead" 
-    width="800"
+    width="1000"
   />
 </p>
 <p align="center">
