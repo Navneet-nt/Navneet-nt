@@ -2,7 +2,13 @@
   Profile README for Navneet-nt (Navneet Tiwari)
   Showcases personal projects and open‑source contributions
 -->
-
+<p align="center">
+  <img 
+    src="assets/loneliness-solitude.gif" 
+    alt="Loneliness Solitude GIF by braindead" 
+    width="600"
+  />
+</p>
 <p align="center">
   <h1 align="center">👋 Hi there, I'm Navneet Tiwari</h1>
   <p align="center">
