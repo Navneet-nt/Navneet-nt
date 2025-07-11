@@ -28,11 +28,11 @@
 ---
 
 ## 📊 GitHub Stats
-> 🔥 **182** contributions in the last year · 20 repositories · 1 star
+> 🔥 **201** contributions in the last year · 29 repositories 
 
 | Metric               | Value         |
 |----------------------|--------------:|
-| Total Contributions  | 182           |
+| Total Contributions  | 201           |
 | Issues               | 2 %           |
 | Pull Requests        | 6 %           |
 | Commits              | 92 %          |
