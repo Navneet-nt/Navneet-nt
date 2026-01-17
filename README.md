@@ -1,94 +1,82 @@
-<!--
-  Profile README for Navneet-nt (Navneet Tiwari)
-  Showcases personal projects and open‑source contributions
--->
+<h1 align="center">Hi 👋, I'm Navneet Tiwari</h1>
+<h3 align="center">A passionate AI & IoT enthusiast from Bhubaneshwar, India</h3>
+
 <p align="center">
-  <img 
-    src="w8ZJLtJbmuph.gif" 
-    alt="Loneliness Solitude GIF by braindead" 
-    width="1200"
-  />
+  <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="100%" />
 </p>
+
 <p align="center">
-  <h1 align="center">I'm Navneet Tiwari</h1>
-  <p align="center">
-    <em>he/him · Student · Programmer</em><br/>
-    <a href="https://github.com/Navneet-nt"><strong>Explore my GitHub →</strong></a>
-  </p>
+<a href="https://github.com/Navneet-nt/github-readme-stats"><img alt="Navneet-nt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Navneet-nt&show_icons=true&count_private=true&theme=vue&hide_border=true" /></a>
+<a href="https://github.com/Navneet-nt/github-readme-stats"><img alt="Navneet-nt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-nt&layout=compact&theme=vue&hide_border=true" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 BTech in Computer Science (2022–2026) @ KIIT University, Bhubaneshwar  
-- 💻 Passionate about solving real‑world problems with AI, IoT & edge computing  
-- 🌱 Currently seeking **internships** in AI/ML, Devops; eager to work with live data  
-- 📍 Based in Bhubaneshwar, Odisha | ✉️ navneettiwari334@gmail.com  
+### 🚀 **About Me**
+
+- 🎓 I’m currently a **BTech Student (CSE)** at **KIIT University** (2022–2026).
+- 🔭 I’m currently working on **KrishiSarathi** and **Smart_Glasses**.
+- 🌱 I’m currently learning **Advanced AI Agents, LLMs, & DevOps**.
+- 👯 I’m looking to collaborate on **Open Source AI/ML projects**.
+- 🤝 I’m looking for internships in **AI/ML and DevOps**.
+- 💬 Ask me about **Python, Machine Learning, Docker, and IoT**.
+- 📫 How to reach me: **navneettiwari334@gmail.com**
+- ⚡ Fun fact: **"Code is like humor. When you have to explain it, it’s bad."**
 
 ---
 
-## 📊 GitHub Stats
-> 🔥 **201** contributions in the last year · 29 repositories 
+### 🛠️ **Languages and Tools**
 
-| Metric               | Value         |
-|----------------------|--------------:|
-| Total Contributions  | 201           |
-| Issues               | 2 %           |
-| Pull Requests        | 6 %           |
-| Commits              | 92 %          |
-
----
-
-## 🌟 Featured Projects
-
-| Project                                | Tech Stack       | Description                                                  |
-|----------------------------------------|------------------|--------------------------------------------------------------|
-| [KrishiSarathi](https://github.com/Navneet-nt/KrishiSarathi)             | Jupyter Notebook | Data‑driven platform for farmers—crop recommendations & markets. |
-| [California_Housing_Price_Prediction](https://github.com/Navneet-nt/California_Housing_Price_Prediction) | Jupyter Notebook | Regression model forecasting California housing prices.       |
-| [mlproject](https://github.com/Navneet-nt/mlproject)                       | Python           | End‑to‑end ML pipeline: data ingestion → model deployment.    |
-| [Mental-Health-EDA](https://github.com/Navneet-nt/Mental-Health-EDA)       | Jupyter Notebook | EDA on Reddit data to detect depression/anxiety & recommend rehab. |
-| [LiveLife](https://github.com/Navneet-nt/LiveLife)                         | Jupyter Notebook | Chatbot + IoT integrations for personalized life coaching.    |
-| [Smart_Glasses](https://github.com/Navneet-nt/Smart_Glasses)               | Python           | Navigation aid for visually impaired using edge computing.    |
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## 🌐 External Open‑Source Contributions
+### 🌟 **Featured Projects**
 
-I love giving back to the community by submitting PRs, reviews & docs improvements in high‑impact projects:
-
-| Repository                   | Contribution                          | Date            | Type              |
-|------------------------------|---------------------------------------|-----------------|-------------------|
-| [Kaggle/kaggle‑api](https://github.com/Kaggle/kaggle-api)      | Pull Request: update kaggle_api.py (+39/−23)  | June 9, 2025     | Python script     |
-| [google-research](https://github.com/google-research)          | Added Jupyter Notebook demo            | June 11, 2025    | Notebook example  |
-| [keploy/keploy](https://github.com/keploy/keploy/blob/main/cli)| Improved Performance                   | June 13, 2025    | Bug_Fix           |
-| [Navneet-nt/NetworkSecurity](https://github.com/Navneet-nt/NetworkSecurity) | 12 commits                              | May 2025         | Python utilities  |
-| [Navneet-nt/portfolio_v1](https://github.com/Navneet-nt/portfolio_v1)     | 5 commits                               | May 21, 2025     | HTML/CSS          |
-| [Navneet-nt/Musically_Yours](https://github.com/Navneet-nt/Musically_Yours)| 2 commits                               | May 25, 2025     | Python package    |
-| [Navneet-nt/Lunor_Competition](https://github.com/Navneet-nt/Lunor_Competition)| Notebook integration                   | May 31, 2025     | Python analysis   |
-| … & 19 more repositories                                                                                   |
-
-_💡 If you’d like more details on any PR or project, check out my [GitHub contributions graph](https://github.com/Navneet-nt?tab=overview-contributions)._
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**KrishiSarathi**](https://github.com/Navneet-nt/KrishiSarathi) | Jupyter | Data‑driven platform for farmers—crop recommendations & markets. |
+| [**California_Housing**](https://github.com/Navneet-nt/California_Housing_Price_Prediction) | Jupyter | Regression model forecasting California housing prices. |
+| [**ML Pipeline**](https://github.com/Navneet-nt/mlproject) | Python | End‑to‑end ML pipeline: data ingestion → model deployment. |
+| [**Mental-Health-EDA**](https://github.com/Navneet-nt/Mental-Health-EDA) | Jupyter | EDA on Reddit data to detect depression/anxiety & recommend rehab. |
+| [**LiveLife**](https://github.com/Navneet-nt/LiveLife) | IoT/AI | Chatbot + IoT integrations for personalized life coaching. |
+| [**Smart_Glasses**](https://github.com/Navneet-nt/Smart_Glasses) | Edge AI | Navigation aid for visually impaired using edge computing. |
 
 ---
 
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3.10-blue)  
-![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange)  
-![Docker](https://img.shields.io/badge/Docker-Container-blue)  
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)  
-![Java](https://img.shields.io/badge/Java-11-red)  
-![GitHub](https://img.shields.io/badge/GitHub‑Actions-purple)  
-![AI Agents & LLMs](https://img.shields.io/badge/AI%20Agents‑LLMs-lightgrey)  
+### 🌐 **Recent Contributions**
 
----
-
-## 📫 Get In Touch
-- 💼 Portfolio: [navneet-nt.github.io/Portfolio](https://navneet-nt.github.io/Portfolio/)  
-- 🔗 LinkedIn: [Navneet Tiwari](https://www.linkedin.com/in/navneet-tiwari-511652355/)  
-- 📧 Email: navneettiwari334@gmail.com  
-
+<table>
+  <tr>
+    <td><b>Repository</b></td>
+    <td><b>Contribution</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Kaggle/kaggle-api">Kaggle/kaggle-api</a></td>
+    <td>Updated kaggle_api.py (+39/−23)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/google-research/google-research">google-research</a></td>
+    <td>Added Jupyter Notebook demo</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/keploy/keploy">keploy/keploy</a></td>
+    <td>Performance Improvement (Bug Fix)</td>
+  </tr>
+</table>
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+<a href="https://www.linkedin.com/in/navneet-tiwari-511652355/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-tiwari" height="30" width="40" /></a>
+<a href="mailto:navneettiwari334@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="navneettiwari334@gmail.com" height="30" width="40" /></a>
+<a href="https://navneet-nt.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-sandbox.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
