@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=vue" alt="Navneet-nt's Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=vue" alt="Navneet-nt's Languages" />
+  <a href="https://github.com/Navneet-nt/github-readme-stats">
+    <img alt="Navneet-nt's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Navneet-nt&show_icons=true&theme=vue&hide_border=true" />
+  </a>
 </p>
 
 ---
