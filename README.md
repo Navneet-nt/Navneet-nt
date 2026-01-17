@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet-nt&theme=vue&hide_border=true" alt="Navneet-nt's Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=vue" alt="Navneet-nt's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=vue" alt="Navneet-nt's Languages" />
 </p>
 
 ---
