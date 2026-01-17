@@ -5,15 +5,15 @@
   <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="100%" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Navneet-nt/github-readme-stats">
-    <img alt="Navneet-nt's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Navneet-nt&show_icons=true&theme=vue&hide_border=true" />
+    <img height="180"alt="Navneet-nt's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Navneet-nt&show_icons=true&theme=solarized-light&hide_border=true" />
   </a>
+  <img height="180" alt="Navneet-nt's Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=vue" alt="Navneet-nt's Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=vue" alt="Navneet-nt's Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=dark" alt="Navneet-nt's Contributions" />
 </p>
 
 ---
