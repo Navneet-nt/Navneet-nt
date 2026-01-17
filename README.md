@@ -5,7 +5,7 @@
   <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="100%" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Navneet-nt/github-readme-stats">
     <img alt="Navneet-nt's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Navneet-nt&show_icons=true&theme=vue&hide_border=true" />
   </a>
