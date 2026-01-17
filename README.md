@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Navneet-nt/github-readme-stats"><img alt="Navneet-nt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Navneet-nt&show_icons=true&theme=vue&hide_border=true" /></a>
-<a href="https://github.com/Navneet-nt/github-readme-stats"><img alt="Navneet-nt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-nt&layout=compact&theme=vue&hide_border=true" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet-nt&theme=vue&hide_border=true" alt="Navneet-nt's Streak" />
 </p>
 
 ---
