@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Tiwari</h1>
-<h3 align="center">A passionate AI & IoT enthusiast from Bhubaneshwar, India</h3>
+<h3 align="center">A programmer trying to be a developer, India</h3>
 
 <p align="center">
   <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="100%" />
