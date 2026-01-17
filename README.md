@@ -10,9 +10,9 @@
   />
 </p>
 <p align="center">
-  <h1 align="center">👋 Hi there, I'm Navneet Tiwari</h1>
+  <h1 align="center">I'm Navneet Tiwari</h1>
   <p align="center">
-    <em>he/him · Student · Machine Learning Enthusiast</em><br/>
+    <em>he/him · Student · Programmer</em><br/>
     <a href="https://github.com/Navneet-nt"><strong>Explore my GitHub →</strong></a>
   </p>
 </p>
