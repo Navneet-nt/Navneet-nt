@@ -2,20 +2,17 @@
 <h3 align="center">A programmer trying to be a developer, India</h3>
 
 <p align="center">
-  <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="100%" />
+  <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="96%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Navneet-nt/github-readme-stats">
-    <img height="180"alt="Navneet-nt's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Navneet-nt&show_icons=true&theme=solarized-light&hide_border=true" />
-  </a>
-  <img height="180" alt="Navneet-nt's Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navneet-nt&theme=dark" alt="Github Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=dark" alt="Used Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=dark" alt="Navneet-nt's Contributions" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=dark" alt="Profile Details" />
 </p>
-
 ---
 
 ### 🚀 **About Me**
