@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Advanced AI Agents, LLMs, & DevOps**.
 - 👯 I’m looking to collaborate on **Open Source AI/ML projects**.
 - 🤝 I’m looking for internships in **AI/ML and DevOps**.
-- 💬 Ask me about **Python, Machine Learning, Docker, and IoT**.
+- 💬 Ask me about **Python, Java, Machine Learning, Docker**.
 - 📫 How to reach me: **navneettiwari334@gmail.com**
 - ⚡ Fun fact: **"Code is like humor. When you have to explain it, it’s bad."**
 
@@ -79,7 +79,13 @@
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/navneet-tiwari-511652355/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-tiwari" height="30" width="40" /></a>
-<a href="mailto:navneettiwari334@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="navneettiwari334@gmail.com" height="30" width="40" /></a>
-<a href="https://navneet-nt.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-sandbox.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/navneet-tiwari-511652355/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:navneettiwari334@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://navneet-nt.github.io/Portfolio/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
