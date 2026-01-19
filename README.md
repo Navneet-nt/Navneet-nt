@@ -15,16 +15,9 @@
 </p>
 ---
 
-### 🚀 **About Me**
-
-- 🎓 I’m currently a **BTech Student (CSE)** at **KIIT University** (2022–2026).
-- 🔭 I’m currently working on **KrishiSarathi** and **Smart_Glasses**.
-- 🌱 I’m currently learning **Advanced AI Agents, LLMs, & DevOps**.
-- 👯 I’m looking to collaborate on **Open Source AI/ML projects**.
-- 🤝 I’m looking for internships in **AI/ML and DevOps**.
-- 💬 Ask me about **Python, Java, Machine Learning, Docker**.
-- 📫 How to reach me: **navneettiwari334@gmail.com**
-- ⚡ Fun fact: **"Code is like humor. When you have to explain it, it’s bad."**
+<p align="center">
+  <img src="About_me_image.png" alt="Navneet's Banner" width="98%" height="auto"/>
+</p>
 
 ---
 
