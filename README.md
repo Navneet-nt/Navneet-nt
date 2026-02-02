@@ -2,19 +2,13 @@
 <h3 align="center">A programmer trying to be a developer, India</h3>
 
 <p align="center">
-  <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="96%" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navneet-nt&theme=dark" alt="Github Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navneet-nt&theme=dark" alt="Used Languages" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navneet-nt&theme=dark" alt="Profile Details" />
+  <img src="w8ZJLtJbmuph.gif" alt="header-gif" width="98%" />
 </p>
 ---
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet-nt&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Navneet's Contribution Graph" width="98%" height="auto"/>
+</p>
+---
 <p align="center">
   <img src="About_me_image.png" alt="Navneet's Banner" width="98%" height="auto"/>
 </p>
